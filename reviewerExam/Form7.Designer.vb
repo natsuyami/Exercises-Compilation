@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form6
+Partial Class Form7
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,39 +22,45 @@ Partial Class Form6
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
+        Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.SuspendLayout()
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(88, 77)
+        Me.Button1.Location = New System.Drawing.Point(98, 63)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(83, 37)
+        Me.Button1.Size = New System.Drawing.Size(75, 37)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Press L/R to Move"
+        Me.Button1.Text = "Moving Button"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(28, 148)
+        Me.Button2.Location = New System.Drawing.Point(41, 168)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Left"
+        Me.Button2.Text = "Start"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(153, 148)
+        Me.Button3.Location = New System.Drawing.Point(154, 168)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(75, 23)
         Me.Button3.TabIndex = 2
-        Me.Button3.Text = "Right"
+        Me.Button3.Text = "Stop"
         Me.Button3.UseVisualStyleBackColor = True
         '
-        'Form6
+        'Timer1
+        '
+        Me.Timer1.Interval = 200
+        '
+        'Form7
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -62,8 +68,8 @@ Partial Class Form6
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
-        Me.Name = "Form6"
-        Me.Text = "Form6"
+        Me.Name = "Form7"
+        Me.Text = "Form7"
         Me.ResumeLayout(False)
 
     End Sub
@@ -71,4 +77,5 @@ Partial Class Form6
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
     Friend WithEvents Button3 As Button
+    Friend WithEvents Timer1 As Timer
 End Class

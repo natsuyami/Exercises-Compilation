@@ -14,3 +14,20 @@ C:\Users\bunqu\documents\visual studio 2015\Projects\reviewerExam\reviewerExam\o
 C:\Users\bunqu\documents\visual studio 2015\Projects\reviewerExam\reviewerExam\obj\Debug\reviewerExam.Form4.resources
 C:\Users\bunqu\documents\visual studio 2015\Projects\reviewerExam\reviewerExam\obj\Debug\reviewerExam.Form5.resources
 C:\Users\bunqu\documents\visual studio 2015\Projects\reviewerExam\reviewerExam\obj\Debug\reviewerExam.Form6.resources
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\bin\Debug\reviewerExam.exe.config
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.exe
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.xml
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.pdb
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\bin\Debug\reviewerExam.exe
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\bin\Debug\reviewerExam.pdb
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\bin\Debug\reviewerExam.xml
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.vbprojResolveAssemblyReference.cache
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.Form1.resources
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.Form2.resources
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.Form3.resources
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.Form4.resources
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.Form5.resources
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.Form6.resources
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.Resources.resources
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.vbproj.GenerateResource.Cache
+C:\Users\bunqu\Documents\Project\Exercises-Compilation\reviewerExam\obj\Debug\reviewerExam.Form7.resources
